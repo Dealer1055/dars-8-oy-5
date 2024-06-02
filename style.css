@@ -1,0 +1,25 @@
+body {
+    color: aqua;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+button {
+    width: 200px;
+    border-radius: 50px;
+    height: 50px;
+    font-size: larger;
+}
+
+.minus {
+    background-color: lightcoral;
+}
+
+.plus {
+    background-color: lime;
+}
